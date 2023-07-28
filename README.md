@@ -49,6 +49,8 @@ I am a student at IIIT Hyderabad pursuing a dual degree in Computational Linguis
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlalchemy/sqlalchemy-original.svg" width="50rem" title="sqlalchemy" alt="sqlalchemy" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="50rem" title="typescript" alt="typescript" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" width="50rem" title="unity" alt="unity" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="50rem" title="rust" alt="rust" />
+
 
   
   </div>
@@ -57,7 +59,6 @@ I am a student at IIIT Hyderabad pursuing a dual degree in Computational Linguis
   
   - [Rust](https://www.rust-lang.org/)
   - Deep Learning and Machine Learning
-  - [React Native](https://reactnative.dev/)
   
   
 <!--
