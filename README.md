@@ -17,11 +17,11 @@
 I am a student at IIIT Hyderabad pursuing a dual degree in Computational Linguistics.
   
 <h3><img height="20rem" src="https://static.wikia.nocookie.net/omori/images/0/03/BunBunnyWalk.gif/revision/latest?cb=20210530091211&format=original" /> My Areas of Interest</h3>
-  
- - Game Development
- - Web and App Development
+ 
  - Computational Linguistics and NLP
  - AI and ML
+ - Game Development
+ - Web and App Development
 
   
   <h3><img height="24rem" src="https://static.wikia.nocookie.net/omori/images/5/56/SpaceBunnyWalk.gif/revision/latest?cb=20210530092811&format=original" /> Languages and Tools</h3>
