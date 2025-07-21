@@ -23,7 +23,7 @@ I am a student at IIIT Hyderabad pursuing a dual degree in Computational Linguis
  - Game Development
  - Web and App Development
 
-  
+  <!--
   <h3><img height="24rem" src="https://static.wikia.nocookie.net/omori/images/5/56/SpaceBunnyWalk.gif/revision/latest?cb=20210530092811&format=original" /> Languages and Tools</h3>
   <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" width="50rem" title="bash" alt="bash" />
@@ -74,4 +74,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->-->
